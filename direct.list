@@ -3,4 +3,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
 
+# 域名关键词匹配
+DOMAIN-KEYWORD,tapnow
 
