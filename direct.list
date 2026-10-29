@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,baidu.com
 
 # 域名关键词匹配
 DOMAIN-KEYWORD,tapnow
+DOMAIN-KEYWORD,liblib
 
 # VIP 直连
 IP-CIDR,23.254.210.164/32,no-resolve
