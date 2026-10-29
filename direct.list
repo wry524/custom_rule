@@ -9,4 +9,4 @@ DOMAIN-KEYWORD,liblib
 
 # VIP 直连
 IP-CIDR,23.254.210.164/32,no-resolve
-
+IP-CIDR,95.181.188.85/32,no-resolve
